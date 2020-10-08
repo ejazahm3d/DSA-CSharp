@@ -6,7 +6,7 @@ namespace DataStructures
     {
         static void Main(string[] args)
         {
-            var numbers = new Array(2);
+            var numbers = new Array.Array(2);
             numbers.Insert(12);
             numbers.Insert(21);
             numbers.Insert(21);

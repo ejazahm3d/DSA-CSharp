@@ -5,20 +5,20 @@
   </component>
   <component name="BranchesTreeState">
     <expand />
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="310eba4c-429b-4991-b333-1a6b3df21122" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DSA/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DSA/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DSA/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DSA/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DSA/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/Array.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/DataStructures.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/LinkedList/LinkedList.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DSA/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DSA/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DSA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DSA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Array.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/Array/Array.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +38,16 @@
         <option value="$PROJECT_DIR$/DataStructures/DataStructures.csproj" />
         <option value="$PROJECT_DIR$/DataStructures/Program.cs" />
         <option value="$PROJECT_DIR$/DataStructures/Array.cs" />
+        <option value="$PROJECT_DIR$/DataStructures/LinkedList.cs" />
+        <option value="$PROJECT_DIR$/DataStructures/Array/Array.cs" />
+        <option value="$PROJECT_DIR$/DataStructures/LinkedList/LinkedList.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1iYTLo7QniAKtx6mVTmvitLWmpL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,6 +57,7 @@
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.2999217" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -83,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602083471320</updated>
       <workItem from="1602083476382" duration="3093000" />
-      <workItem from="1602118164452" duration="2497000" />
+      <workItem from="1602118164452" duration="4896000" />
     </task>
     <servers />
   </component>
@@ -192,5 +198,13 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="278" y="132" width="800" height="537" key="Rider.ProjectTemplateDialog.Size/0.27.1366.741@0.27.1366.741" timestamp="1602083471460" />
+    <state x="364" y="141" width="637" height="512" key="find.popup" timestamp="1602123858830">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="364" y="141" width="637" height="512" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1602123858830" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602123879016">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1602123879016" />
   </component>
 </project>

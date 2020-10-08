@@ -1,7 +1,7 @@
 using System;
 using static System.Console;
 
-namespace DataStructures
+namespace DataStructures.Array
 {
     public class Array
     {
