@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_DSA.475626096.00" t="ExcludeRecursive" />
-    <e p="$PROJECT_DIR$" t="IncludeFlat">
-      <e p="DSA.sln" t="IncludeFlat" />
+    <e p="C:\Users\ejaza\AppData\local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ejaza\AppData\local\JetBrains\Rider2020.2\resharper-host\local\Transient\Rider\v202\SolutionCaches\_DSA.-957590360.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ejaza\AppData\Roaming\JetBrains\Rider2020.2\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\ejaza\AppData\Roaming\JetBrains\Rider2020.2\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\ejaza\Desktop\dotnet\DSA-CSharp" t="IncludeFlat">
       <e p="DataStructures" t="IncludeRecursive">
         <e p="Array" t="Include">
           <e p="Array.cs" t="Include" />
         </e>
+        <e p="bin" t="ExcludeRecursive" />
         <e p="DataStructures.csproj" t="IncludeRecursive" />
         <e p="LinkedList" t="Include">
           <e p="LinkedList.cs" t="Include" />
         </e>
-        <e p="Program.cs" t="Include" />
-        <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
@@ -22,7 +22,9 @@
             </e>
           </e>
         </e>
+        <e p="Program.cs" t="Include" />
       </e>
+      <e p="DSA.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
     </e>
   </component>

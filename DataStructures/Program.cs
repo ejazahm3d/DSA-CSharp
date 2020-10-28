@@ -1,4 +1,5 @@
-﻿using static System.Console;
+﻿using System;
+using static System.Console;
 
 namespace DataStructures
 {
@@ -6,14 +7,10 @@ namespace DataStructures
     {
         static void Main(string[] args)
         {
-            var numbers = new Array.Array(2);
-            numbers.Insert(12);
-            numbers.Insert(21);
-            numbers.Insert(21);
-            numbers.Insert(21);
-            WriteLine(numbers.IndexOf(21));
-
-            numbers.Print();
+            var numbers = new LinkedList.LinkedList();
+            numbers.AddLast(10);
+            numbers.AddLast(20);
+            numbers.AddLast(30);
         }
     }
 }
